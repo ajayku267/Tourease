@@ -1,0 +1,113 @@
+[
+  {
+    "id": "tg-001",
+    "name": "Emma Rodriguez",
+    "age": 32,
+    "languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "specialization": "Historical Tours",
+    "experience_years": 8,
+    "rating": 4.9,
+    "bio": "Passionate historian with extensive knowledge of European architecture and cultural heritage.",
+    "contact": {
+      "email": "emma.r@tourease.com",
+      "phone": "+1-555-123-4567"
+    },
+    "availability": {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "hours": "9:00 AM - 6:00 PM"
+    },
+    "certifications": [
+      "Licensed Tour Guide",
+      "First Aid Certified",
+      "History Major"
+    ],
+    "profile_image": "/placeholders/profile-placeholder.jpg",
+    "tours_conducted": 245,
+    "created_at": "2025-04-09T08:39:34.804731",
+    "updated_at": "2025-04-09T08:39:34.804731"
+  },
+  {
+    "id": "tg-002",
+    "name": "David Chen",
+    "age": 29,
+    "languages": [
+      "English",
+      "Mandarin",
+      "Japanese"
+    ],
+    "specialization": "Adventure Tours",
+    "experience_years": 5,
+    "rating": 4.7,
+    "bio": "Adventure enthusiast specialized in hiking, mountain climbing, and outdoor survival.",
+    "contact": {
+      "email": "david.c@tourease.com",
+      "phone": "+1-555-987-6543"
+    },
+    "availability": {
+      "days": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    "certifications": [
+      "Wilderness First Responder",
+      "Rock Climbing Instructor",
+      "Survival Training"
+    ],
+    "profile_image": "/placeholders/profile-placeholder.jpg",
+    "tours_conducted": 132,
+    "created_at": "2025-04-09T08:39:34.804731",
+    "updated_at": "2025-04-09T08:39:34.804731"
+  },
+  {
+    "id": "tg-003",
+    "name": "Sophie Martin",
+    "age": 35,
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "specialization": "Culinary Tours",
+    "experience_years": 10,
+    "rating": 4.8,
+    "bio": "Former chef turned tour guide with expertise in local cuisines and food markets across Europe.",
+    "contact": {
+      "email": "sophie.m@tourease.com",
+      "phone": "+1-555-456-7890"
+    },
+    "availability": {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "hours": "10:00 AM - 7:00 PM"
+    },
+    "certifications": [
+      "Culinary Arts Degree",
+      "Food Safety Certificate",
+      "Wine Sommelier"
+    ],
+    "profile_image": "/placeholders/profile-placeholder.jpg",
+    "tours_conducted": 189,
+    "created_at": "2025-04-09T08:39:34.804731",
+    "updated_at": "2025-04-09T08:39:34.804731"
+  }
+]

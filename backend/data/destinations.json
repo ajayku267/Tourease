@@ -1,0 +1,267 @@
+[
+  {
+    "id": "dest-001",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 331002651,
+    "languages": [
+      "English"
+    ],
+    "currencies": [
+      "United States Dollar"
+    ],
+    "flag": "https://flagcdn.com/w320/us.png",
+    "coordinates": [
+      38,
+      -97
+    ],
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "id": "dest-002",
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 67391582,
+    "languages": [
+      "French"
+    ],
+    "currencies": [
+      "Euro"
+    ],
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "coordinates": [
+      46,
+      2
+    ],
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ]
+  },
+  {
+    "id": "dest-003",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 125836021,
+    "languages": [
+      "Japanese"
+    ],
+    "currencies": [
+      "Japanese Yen"
+    ],
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "coordinates": [
+      36,
+      138
+    ],
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "id": "dest-004",
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 25687041,
+    "languages": [
+      "English"
+    ],
+    "currencies": [
+      "Australian Dollar"
+    ],
+    "flag": "https://flagcdn.com/w320/au.png",
+    "coordinates": [
+      -27,
+      133
+    ],
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ]
+  },
+  {
+    "id": "dest-005",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 59308690,
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "currencies": [
+      "South African Rand"
+    ],
+    "flag": "https://flagcdn.com/w320/za.png",
+    "coordinates": [
+      -29,
+      24
+    ],
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "id": "dest-006",
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 59554023,
+    "languages": [
+      "Italian"
+    ],
+    "currencies": [
+      "Euro"
+    ],
+    "flag": "https://flagcdn.com/w320/it.png",
+    "coordinates": [
+      42.83333333,
+      12.83333333
+    ],
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "id": "dest-007",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 69625582,
+    "languages": [
+      "Thai"
+    ],
+    "currencies": [
+      "Thai baht"
+    ],
+    "flag": "https://flagcdn.com/w320/th.png",
+    "coordinates": [
+      15,
+      100
+    ],
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "id": "dest-008",
+    "name": "Brazil",
+    "capital": "Bras\u00edlia",
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 212559409,
+    "languages": [
+      "Portuguese"
+    ],
+    "currencies": [
+      "Brazilian real"
+    ],
+    "flag": "https://flagcdn.com/w320/br.png",
+    "coordinates": [
+      -10,
+      -55
+    ],
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ]
+  },
+  {
+    "id": "dest-009",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 102334403,
+    "languages": [
+      "Arabic"
+    ],
+    "currencies": [
+      "Egyptian pound"
+    ],
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "coordinates": [
+      27,
+      30
+    ],
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "id": "dest-010",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 128932753,
+    "languages": [
+      "Spanish"
+    ],
+    "currencies": [
+      "Mexican peso"
+    ],
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "coordinates": [
+      23,
+      -102
+    ],
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <rect width="500" height="300" fill="#bfdbfe"/>
+  <text x="250" y="130" font-family="Arial" font-size="24" fill="#1e3a8a" text-anchor="middle" font-weight="bold">Santorini Trip</text>
+  <text x="250" y="170" font-family="Arial" font-size="18" fill="#1e3a8a" text-anchor="middle">Image used in UserProfile</text>
+  <text x="250" y="200" font-family="Arial" font-size="16" fill="#1e3a8a" text-anchor="middle">Trip Card</text>
+</svg> 

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Background gradient circle -->
+  <circle cx="24" cy="24" r="22" fill="url(#ar_gradient)" />
+  
+  <!-- Camera lens/viewfinder -->
+  <circle cx="24" cy="24" r="12" fill="none" stroke="white" stroke-width="2" stroke-opacity="0.8" />
+  <circle cx="24" cy="24" r="2" fill="white" fill-opacity="0.8" />
+  
+  <!-- Camera focus lines -->
+  <line x1="12" y1="24" x2="16" y2="24" stroke="white" stroke-width="1.5" />
+  <line x1="32" y1="24" x2="36" y2="24" stroke="white" stroke-width="1.5" />
+  <line x1="24" y1="12" x2="24" y2="16" stroke="white" stroke-width="1.5" />
+  <line x1="24" y1="32" x2="24" y2="36" stroke="white" stroke-width="1.5" />
+  
+  <!-- AR Elements -->
+  <!-- Location Pin -->
+  <path d="M32 20C32 18.4087 31.3679 16.8826 30.2426 15.7574C29.1174 14.6321 27.5913 14 26 14C24.4087 14 22.8826 14.6321 21.7574 15.7574C20.6321 16.8826 20 18.4087 20 20C20 24 26 30 26 30C26 30 32 24 32 20Z" fill="white" fill-opacity="0.9" />
+  <circle cx="26" cy="20" r="2" fill="#3B82F6" />
+  
+  <!-- Info Card -->
+  <rect x="12" y="28" width="12" height="6" rx="1" fill="white" fill-opacity="0.8" />
+  <line x1="14" y1="30" x2="20" y2="30" stroke="#3B82F6" stroke-width="0.8" />
+  <line x1="14" y1="32" x2="18" y2="32" stroke="#3B82F6" stroke-width="0.8" />
+  
+  <!-- Gradient definition -->
+  <defs>
+    <radialGradient id="ar_gradient" cx="24" cy="24" r="22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B82F6" />
+      <stop offset="1" stop-color="#1E40AF" />
+    </radialGradient>
+  </defs>
+</svg> 

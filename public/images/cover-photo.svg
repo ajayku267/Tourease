@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="patternGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="40" height="40" fill="url(#bgGradient)"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1000" height="400" fill="url(#patternGrid)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="200" cy="150" r="50" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="800" cy="250" r="70" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="500" cy="100" r="30" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Text labels -->
+  <text x="500" y="200" font-family="Arial" font-size="32" fill="white" text-anchor="middle" font-weight="bold">Profile Cover Photo</text>
+  <text x="500" y="240" font-family="Arial" font-size="24" fill="white" text-anchor="middle">Used in UserProfile Component</text>
+  <text x="500" y="280" font-family="Arial" font-size="18" fill="rgba(255,255,255,0.8)" text-anchor="middle">Largest Contentful Paint (LCP) Element</text>
+  <text x="500" y="310" font-family="Arial" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="middle">priority attribute added for optimization</text>
+</svg> 

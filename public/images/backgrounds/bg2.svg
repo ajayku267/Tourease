@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#065f46;stop-opacity:0.9" />
+    </linearGradient>
+    <filter id="blur" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1920" height="1080" fill="url(#bgGradient)"/>
+  
+  <!-- Simple tropical island silhouette -->
+  <path d="M0,850 C200,840 300,700 500,750 C700,800 800,700 1000,720 C1200,740 1300,680 1500,750 C1700,820 1800,780 1920,830 L1920,1080 L0,1080 Z" 
+    fill="#0f172a" filter="url(#blur)"/>
+  
+  <!-- Palm trees -->
+  <path d="M400,850 L420,650 L380,700 L420,680 L390,720 L420,710 L400,750 L430,730 L400,850 Z" fill="#042f2e"/>
+  <path d="M1500,830 L1520,630 L1480,680 L1520,660 L1490,700 L1520,690 L1500,730 L1530,710 L1500,830 Z" fill="#042f2e"/>
+  
+  <!-- Text -->
+  <text x="960" y="400" font-family="Arial" font-size="100" fill="white" text-anchor="middle" font-weight="bold">Bali, Indonesia</text>
+  <text x="960" y="500" font-family="Arial" font-size="50" fill="rgba(255,255,255,0.8)" text-anchor="middle">Background Image 2</text>
+  <text x="960" y="580" font-family="Arial" font-size="36" fill="rgba(255,255,255,0.7)" text-anchor="middle">Used in Hero Section</text>
+</svg> 

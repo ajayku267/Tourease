@@ -1,0 +1,73 @@
+[
+  {
+    "id": "tour-001",
+    "name": "Historical Rome Walking Tour",
+    "description": "Explore ancient Rome's most significant sites with expert historical commentary.",
+    "duration_hours": 3,
+    "price": 49.99,
+    "location": "Rome, Italy",
+    "max_participants": 12,
+    "guide_id": "tg-001",
+    "rating": 4.8,
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "includes": [
+      "Professional guide",
+      "Small group experience",
+      "Entry tickets"
+    ],
+    "meeting_point": "Spanish Steps, Rome",
+    "created_at": "2025-04-09T08:39:34.804731",
+    "updated_at": "2025-04-09T08:39:34.804731"
+  },
+  {
+    "id": "tour-002",
+    "name": "Mount Fuji Hiking Adventure",
+    "description": "A challenging day hike on Japan's iconic mountain with stunning views.",
+    "duration_hours": 8,
+    "price": 89.99,
+    "location": "Mount Fuji, Japan",
+    "max_participants": 8,
+    "guide_id": "tg-002",
+    "rating": 4.7,
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "includes": [
+      "Expert guide",
+      "Safety equipment",
+      "Lunch box",
+      "Transportation"
+    ],
+    "meeting_point": "Fujinomiya 5th Station",
+    "created_at": "2025-04-09T08:39:34.804731",
+    "updated_at": "2025-04-09T08:39:34.804731"
+  },
+  {
+    "id": "tour-003",
+    "name": "Paris Gourmet Food Tour",
+    "description": "Taste your way through Parisian markets, bakeries, and specialty food shops.",
+    "duration_hours": 4,
+    "price": 69.99,
+    "location": "Paris, France",
+    "max_participants": 10,
+    "guide_id": "tg-003",
+    "rating": 4.9,
+    "languages": [
+      "English",
+      "French"
+    ],
+    "includes": [
+      "Food tastings",
+      "Wine samples",
+      "Market tour",
+      "Recipe booklet"
+    ],
+    "meeting_point": "Le Marais district, Paris",
+    "created_at": "2025-04-09T08:39:34.804731",
+    "updated_at": "2025-04-09T08:39:34.804731"
+  }
+]

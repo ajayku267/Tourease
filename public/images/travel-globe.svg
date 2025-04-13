@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Outer Circle with gradient -->
+  <circle cx="24" cy="24" r="23" fill="url(#travel_gradient)" stroke="white" stroke-width="1" />
+  
+  <!-- Globe elements -->
+  <circle cx="24" cy="24" r="16" fill="none" stroke="white" stroke-width="1.5" stroke-opacity="0.7" />
+  
+  <!-- Latitude lines -->
+  <path d="M8 24h32" stroke="white" stroke-width="0.8" stroke-opacity="0.5" />
+  <path d="M24 8v32" stroke="white" stroke-width="0.8" stroke-opacity="0.5" />
+  <ellipse cx="24" cy="24" rx="12" ry="16" stroke="white" stroke-width="0.8" stroke-opacity="0.5" fill="none" />
+  <ellipse cx="24" cy="24" rx="16" ry="12" stroke="white" stroke-width="0.8" stroke-opacity="0.5" fill="none" />
+  
+  <!-- Continents stylized -->
+  <path d="M22 15.5C23 14.8 24.5 14 25.2 15.2C26 16.5 27 17 28 16.5C29 16 30 17 29.5 18C29 19 30 20 31 19.5C32 19 33 20 32.5 21C32 22 31 23 29.5 23.2C28 23.4 27 24 27.5 25C28 26 27 27 26 27.5C25 28 24 29 23 28.5C22 28 21 29 20.5 28C20 27 19 26.5 18.5 25.5C18 24.5 17 23.5 18 22.5C19 21.5 18.5 20 19 19C19.5 18 21 16.2 22 15.5Z" fill="white" fill-opacity="0.4" />
+  
+  <!-- Airplane path -->
+  <path d="M21 16C12 25 18 33 27 34" stroke="white" stroke-width="0.8" stroke-dasharray="1 1" />
+  
+  <!-- Airplane -->
+  <path d="M27 34L24.5 31.5L25.8 30.2L24 29L27 26L29 28L27.8 29.2L29.5 30.5L27 34Z" fill="white" />
+  
+  <!-- Compass Rose -->
+  <circle cx="16" cy="18" r="2.5" fill="white" fill-opacity="0.2" stroke="white" stroke-width="0.5" />
+  <path d="M16 15.5L16.5 18L16 20.5L15.5 18L16 15.5Z" fill="white" />
+  <path d="M13.5 18L16 17.5L18.5 18L16 18.5L13.5 18Z" fill="white" />
+  
+  <!-- Radial gradient definition -->
+  <defs>
+    <radialGradient id="travel_gradient" cx="24" cy="24" r="23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4A90E2" />
+      <stop offset="0.5" stop-color="#3B82F6" />
+      <stop offset="1" stop-color="#1E40AF" />
+    </radialGradient>
+  </defs>
+</svg> 
